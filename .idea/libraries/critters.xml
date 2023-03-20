@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="critters">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/critters.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
